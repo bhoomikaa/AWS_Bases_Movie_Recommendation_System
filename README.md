@@ -137,7 +137,6 @@ Prerequisites
 - AWS account with appropriate permissions.
 - Python environment with Pandas and Numpy for Lambda function.
 - MySQL Workbench
-- Access to Tableau for visualization.
 
 Contributors
 
