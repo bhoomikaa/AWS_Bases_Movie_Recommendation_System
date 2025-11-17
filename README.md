@@ -141,8 +141,7 @@ Prerequisites
 
 Contributors
 
-- Anupam Semwal
-- Bhushan Babar
+- Bhoomika
 - Nikki Rastogi
 
 
